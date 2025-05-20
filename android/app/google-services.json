@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "653060573487",
+    "project_id": "wangkie-86eb3",
+    "storage_bucket": "wangkie-86eb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653060573487:android:31bc78965fed7f46fe79da",
+        "android_client_info": {
+          "package_name": "com.example.wangkie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653060573487-nqn4kqajk70k5a6dil060du80l4q77ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wangkie_app",
+            "certificate_hash": "f9a14915421068664ee796a8f8212e6aa36c0814"
+          }
+        },
+        {
+          "client_id": "653060573487-36t19lhft8d2d9phg9h1ceagv0vp1o94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvA9Q9j4dtZJPmxqnPNlF1Y8QEQmPHlEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653060573487-36t19lhft8d2d9phg9h1ceagv0vp1o94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653060573487-7et5280juv2jo05ebfehmdqbded85ccp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wangkieApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
